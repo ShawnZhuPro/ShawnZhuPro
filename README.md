@@ -1,7 +1,5 @@
 ## Welcome to my Coding Journey! 👋
 
-#### Here's a general timeline of my accomplishments
-
 **10th Grade** 📚
 
 - [Basic ChatGPT Web App](https://shawnzhuchatgpt.bubbleapps.io/version-test) 💬
