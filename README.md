@@ -2,6 +2,7 @@
 
 #### Here's a general timeline of projects I've accomplished 
 
+
 **10th Grade** 📚
 
 - [Basic ChatGPT Web App](https://shawnzhuchatgpt.bubbleapps.io/version-test) 💬
