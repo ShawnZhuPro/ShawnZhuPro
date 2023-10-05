@@ -62,6 +62,7 @@
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
 - [A JSON Food Order Database](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Food_Orders_JSON) 🍔🍕
 - [CS50 (up to week 4)](https://pll.harvard.edu/course/cs50-introduction-computer-science) 📚🏛️
+- [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
 
 **11th Grade** 📚
 
