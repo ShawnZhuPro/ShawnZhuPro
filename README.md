@@ -1,7 +1,6 @@
 ## Welcome to my Coding Journey! 👋
 
-#### Here's a general timeline of projects I've accomplished 
-
+#### Here's a general timeline of my accomplishments
 
 **10th Grade** 📚
 
@@ -11,11 +10,16 @@
   - [Object tracking logic](https://github.com/ShawnZhuPro/2022-IAP-Turret/blob/main/2022%20IAP-Turret/src/main/java/frc/robot/commands/SearchAndSpin.java) 🎯
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
 - [A JSON Food Order Database](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Food_Orders_JSON) 🍔🍕
+- [CS50 (up to week 4)](https://pll.harvard.edu/course/cs50-introduction-computer-science) 📚🏛️
 
 **11th Grade** 📚
 
-- [Webscraper Program ](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
+- Machine Learning
+  - [Supervised Machine Learning: Regression & Classification](https://www.coursera.org/account/accomplishments/verify/BCZXVF56XYAA) 🤖📈
+  - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/) 🧠📊
+- [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
+
 
 
 <!--
