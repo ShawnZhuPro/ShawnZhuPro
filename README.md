@@ -74,6 +74,7 @@
 - [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
 - LQR Controller for FRC
+- Swerve Drive for FRC
 
 
 
