@@ -76,6 +76,7 @@
   - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/) 🧠📊
 - [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
+- [Leetcode](https://leetcode.com/chonkrdoggr/)
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 
