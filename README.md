@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discordapp.com/users/chonkrdoggr">
-    <img src="https://img.shields.io/badge/Discord-chonkrdoggr-blue" alt="Discord - chonkrdoggr">
+    <img src="https://img.shields.io/badge/Discord-chonkrdoggr-red" alt="Discord - chonkrdoggr">
   </a>
 </p>
 
