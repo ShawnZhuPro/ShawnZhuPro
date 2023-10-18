@@ -54,6 +54,9 @@
 
 ## Welcome to my Coding Journey! 🖥️
 
+**Current Projects**
+- LQR Controller for FRC
+- [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 
 **10th Grade** 📚
 
