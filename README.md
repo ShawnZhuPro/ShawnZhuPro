@@ -50,8 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnzhupro&show_icons=true&locale=en&theme=onedark" alt="shawnzhupro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnzhupro&&theme=onedark" alt="shawnzhupro" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShawnZhuPro&theme=onedark&mode=weekly" alt="GitHub Streak" /></a>
 ## Welcome to my Coding Journey! 🖥️
 
 **Current Projects**
