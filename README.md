@@ -56,6 +56,7 @@
 **Current Projects**
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
+- Computer Vision using GRIP for FRC
 
 **10th Grade** 📚
 
@@ -78,6 +79,7 @@
 - [Leetcode](https://leetcode.com/chonkrdoggr/)
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
+- Computer Vision using GRIP for FRC
 
 
 
