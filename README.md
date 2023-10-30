@@ -73,7 +73,7 @@
 
 - Machine Learning
   - [Supervised Machine Learning: Regression & Classification](https://www.coursera.org/account/accomplishments/verify/BCZXVF56XYAA) 🤖📈
-  - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms/) 🧠📊
+  - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/HJ6Z6W6NQV75) 🧠📊
 - [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
 - [Leetcode](https://leetcode.com/chonkrdoggr/)
