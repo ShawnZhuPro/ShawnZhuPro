@@ -56,7 +56,7 @@
 **Current Projects**
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
-- Computer Vision using GRIP for FRC
+- [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
 
 **10th Grade** 📚
 
@@ -79,8 +79,7 @@
 - [Leetcode](https://leetcode.com/chonkrdoggr/)
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
-- Computer Vision using GRIP for FRC
-
+- [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
 
 
 <!--
