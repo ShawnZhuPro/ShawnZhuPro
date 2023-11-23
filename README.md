@@ -1,6 +1,6 @@
 ## Hi, I'm Shawn!👋
 
-<h3 align="center">I aspire to be a Software Engineer or Machine Learning Engineer! 🔥🔥🔥</h3>
+<h3 align="center">I aspire to be a Software Engineer, Machine Learning Engineer, or Full-stack Developer! 🔥🔥🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnzhupro&label=Profile%20views&color=red&style=flat" alt="shawnzhupro" /> </p>
 
