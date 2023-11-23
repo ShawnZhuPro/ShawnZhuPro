@@ -55,8 +55,8 @@
 
 **Current Projects**
 - LQR Controller for FRC
-- [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
+- [JS Projects](https://github.com/ShawnZhuPro/JavaScript-Projects)
 
 **10th Grade** 📚
 
