@@ -56,8 +56,7 @@
 **Current Projects**
 - LQR Controller for FRC
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
-- [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List)
-- [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator)
+
 
 **10th Grade** 📚
 
@@ -81,6 +80,8 @@
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
+- [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List)
+- [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator)
 
 
 <!--
