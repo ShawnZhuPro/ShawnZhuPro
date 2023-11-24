@@ -53,58 +53,38 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShawnZhuPro&theme=onedark&mode=weekly" alt="GitHub Streak" /></a>
 # Welcome to my Coding Journey! 🖥️
 
-</head>
-<body>
-    <h2>JS Web Projects (oldest to latest) 🌐</h2>
-    <ul>
-        <li><a href="https://github.com/ShawnZhuPro/Shopping-List" target="_blank">Shopping List Website</a> 🛒</li>
-        <li><a href="https://github.com/ShawnZhuPro/Random-User-Generator" target="_blank">Random Person Generator Website</a> 👤</li>
-        <li><a href="https://github.com/ShawnZhuPro/flixx-movie-app" target="_blank">Flixx Movie App</a> 🎬</li>
-    </ul>
+## JS Web Projects (oldest to latest)
+- [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
+- [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator) 👤
+- [Flixx Movie App](https://github.com/ShawnZhuPro/flixx-movie-app) 🎬
 
-  <h2>Python Projects (oldest to latest) 🐍</h2>
-    <ul>
-        <li><a href="https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine" target="_blank">Search Engine Program</a> 🔍🌐</li>
-        <li><a href="https://github.com/ShawnZhuPro/Python-Projects/tree/main/Food_Orders_JSON" target="_blank">A JSON Food Order Database</a> 🍔🍕</li>
-        <li><a href="https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper" target="_blank">Webscraper Program</a> 📷📦</li>
-        <li><a href="https://github.com/ShawnZhuPro/Grokking_Algorithms" target="_blank">Python Algorithms</a> 🧠</li>
-    </ul>
+## Python Projects (oldest to latest)
+- [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
+- [A JSON Food Order Database](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Food_Orders_JSON) 🍔🍕
+- [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
+- [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
 
-  <h2>Java Projects (oldest to latest) ☕</h2>
-    <p>Work in Progress</p>
+## Java Projects (oldest to latest)
+- WIP
 
-  <h2>Robotics Projects (oldest to latest) 🤖</h2>
-    <ul>
-        <li>FRC Limelight Computer Vision Program
-            <ul>
-                <li><a href="https://github.com/ShawnZhuPro/2022-IAP-Turret/blob/main/2022%20IAP-Turret/src/main/java/frc/robot/subsystems/Limelight.java" target="_blank">Limelight subsystem</a> 📷</li>
-                <li><a href="https://github.com/ShawnZhuPro/2022-IAP-Turret/blob/main/2022%20IAP-Turret/src/main/java/frc/robot/commands/SearchAndSpin.java" target="_blank">Object tracking logic</a> 🎯</li>
-            </ul>
-        </li>
-        <li>LQR Controller for FRC</li>
-        <li><a href="https://github.com/ShawnZhuPro/SwerveDrive" target="_blank">Swerve Drive for FRC</a></li>
-        <li><a href="https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java" target="_blank">Computer Vision using GRIP for FRC</a></li>
-    </ul>
+## Robotics Projects (oldest to latest)
+- FRC Limelight Computer Vision Program 🤖
+  - [Limelight subsystem](https://github.com/ShawnZhuPro/2022-IAP-Turret/blob/main/2022%20IAP-Turret/src/main/java/frc/robot/subsystems/Limelight.java) 📷
+  - [Object tracking logic](https://github.com/ShawnZhuPro/2022-IAP-Turret/blob/main/2022%20IAP-Turret/src/main/java/frc/robot/commands/SearchAndSpin.java) 🎯
+- LQR Controller for FRC
+- [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
+- [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
 
-  <h2>Internships (oldest to latest) 🌍</h2>
-    <ul>
-        <li><a href="https://www.linkedin.com/company/inchtone/" target="_blank">Application Developer Intern for Inchtone</a> 🖥️</li>
-    </ul>
+## Internships (oldest to latest)
+- [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
 
-   <h2>Misc (oldest to latest) 📚</h2>
-    <ul>
-        <li><a href="https://shawnzhuchatgpt.bubbleapps.io/version-test" target="_blank">Basic ChatGPT Web App</a> 💬</li>
-        <li><a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">CS50 (up to week 4)</a> 🏛️</li>
-        <li>Machine Learning
-            <ul>
-                <li><a href="https://www.coursera.org/account/accomplishments/verify/BCZXVF56XYAA" target="_blank">Supervised Machine Learning: Regression & Classification</a> 📈</li>
-                <li><a href="https://www.coursera.org/account/accomplishments/verify/HJ6Z6W6NQV75" target="_blank">Advanced Learning Algorithms</a> 📊</li>
-            </ul>
-        </li>
-        <li><a href="https://leetcode.com/chonkrdoggr/" target="_blank">Leetcode</a> 🧩</li>
-    </ul>
-</body>
-</html>
+## Misc (oldest to latest)
+- [Basic ChatGPT Web App](https://shawnzhuchatgpt.bubbleapps.io/version-test) 💬
+- [CS50 (up to week 4)](https://pll.harvard.edu/course/cs50-introduction-computer-science) 📚🏛️
+- Machine Learning
+  - [Supervised Machine Learning: Regression & Classification](https://www.coursera.org/account/accomplishments/verify/BCZXVF56XYAA) 🤖📈
+  - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/HJ6Z6W6NQV75) 🧠📊
+- [Leetcode](https://leetcode.com/chonkrdoggr/)
 
 
 
