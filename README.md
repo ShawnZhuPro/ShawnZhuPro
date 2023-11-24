@@ -53,9 +53,10 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShawnZhuPro&theme=onedark&mode=weekly" alt="GitHub Streak" /></a>
 ## Welcome to my Coding Journey! 🖥️
 
-**Current Projects**
-- LQR Controller for FRC
-- [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
+**Web Projects (oldest to latest)**
+- [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List)
+- [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator)
+- [Flixx Movie App](https://github.com/ShawnZhuPro/flixx-movie-app)
 
 
 **10th Grade** 📚
