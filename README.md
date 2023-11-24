@@ -82,6 +82,7 @@
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List)
 - [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator)
+- [Flixx Movie App](https://github.com/ShawnZhuPro/flixx-movie-app)
 
 
 <!--
