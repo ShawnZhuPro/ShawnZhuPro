@@ -61,6 +61,7 @@
 - [Music Player](https://github.com/ShawnZhuPro/music-player)
 - [Ball Animation](https://github.com/ShawnZhuPro/ball-animation)
 - [Speech Recognition](https://github.com/ShawnZhuPro/speech-recognition)
+- [Text-To-Speech](https://github.com/ShawnZhuPro/Text-To-Speech)
 
 ## Python Projects (oldest to latest)
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
