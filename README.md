@@ -57,6 +57,8 @@
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
 - [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator) 👤
 - [Flixx Movie App](https://github.com/ShawnZhuPro/flixx-movie-app) 🎬
+- [Animated Clock](https://github.com/ShawnZhuPro/animated-clock)
+- [Music Player](https://github.com/ShawnZhuPro/music-player)
 
 ## Python Projects (oldest to latest)
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
