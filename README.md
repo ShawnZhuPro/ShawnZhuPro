@@ -59,6 +59,8 @@
 - [Flixx Movie App](https://github.com/ShawnZhuPro/flixx-movie-app) 🎬
 - [Animated Clock](https://github.com/ShawnZhuPro/animated-clock)
 - [Music Player](https://github.com/ShawnZhuPro/music-player)
+- [Ball Animation](https://github.com/ShawnZhuPro/ball-animation)
+- [Speech Recognition](https://github.com/ShawnZhuPro/speech-recognition)
 
 ## Python Projects (oldest to latest)
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
