@@ -53,6 +53,10 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShawnZhuPro&theme=onedark&mode=weekly" alt="GitHub Streak" /></a>
 # Welcome to my Coding Journey! 🖥️
 
+## Internships (oldest to latest)
+- [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
+- [(WIP) Full Stack Developer for Hyper Planar]
+
 ## JS Web Projects (oldest to latest)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
 - [Random Person Generator Website](https://github.com/ShawnZhuPro/Random-User-Generator) 👤
@@ -79,9 +83,6 @@
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
-
-## Internships (oldest to latest)
-- [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
 
 ## Misc (oldest to latest)
 - [Basic ChatGPT Web App](https://shawnzhuchatgpt.bubbleapps.io/version-test) 💬
