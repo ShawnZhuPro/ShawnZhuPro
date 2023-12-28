@@ -55,7 +55,7 @@
 
 ## Internships (oldest to latest)
 - [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
-- [(WIP) Full Stack Developer for Hyper Planar]
+- (WIP) Full Stack Developer for Hyper Planar
 
 ## JS Web Projects (oldest to latest)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
