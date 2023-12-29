@@ -72,6 +72,8 @@
 - [A JSON Food Order Database](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Food_Orders_JSON) 🍔🍕
 - [Webscraper Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Webscraper) 📷📦
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
+- [Trading API](https://github.com/ShawnZhuPro/TradierAPI)
+- [Python Frontend](https://github.com/ShawnZhuPro/Streamlit_Tutorial/tree/main)
 
 ## Java Projects (oldest to latest)
 - WIP
