@@ -66,6 +66,7 @@
 - [Ball Animation](https://github.com/ShawnZhuPro/ball-animation)
 - [Speech Recognition](https://github.com/ShawnZhuPro/speech-recognition)
 - [Text-To-Speech](https://github.com/ShawnZhuPro/Text-To-Speech)
+- [Poll](https://github.com/ShawnZhuPro/mini-poll-project)
 
 ## Python Projects (oldest to latest)
 - [Search Engine Program](https://github.com/ShawnZhuPro/Python-Projects/tree/main/Search_Engine) 🔍🌐
@@ -85,6 +86,7 @@
 - LQR Controller for FRC
 - [Swerve Drive for FRC](https://github.com/ShawnZhuPro/SwerveDrive)
 - [Computer Vision using GRIP for FRC](https://github.com/ShawnZhuPro/2023-IAP-Turret/tree/main/2023-IAP-Turret/src/main/java)
+- [Trapezoidal Motion](https://github.com/ShawnZhuPro/TrapezoidalMotionExample)
 
 ## Misc (oldest to latest)
 - [Basic ChatGPT Web App](https://shawnzhuchatgpt.bubbleapps.io/version-test) 💬
