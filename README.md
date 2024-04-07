@@ -68,8 +68,9 @@
 # Welcome to my Coding Journey! 🖥️
 
 ## Internships (oldest to latest)
-- [Application Developer Intern for Inchtone](https://www.linkedin.com/company/inchtone/) 🌎🖥️
-- (WIP) Full Stack Developer for Hyper Planar
+- Application Developer Intern at [Inchtone](https://www.inchtoneglobal.com/) 🌎🖥️
+- (WIP) Full Stack Developer Intern at [Hyper Planar](https://www.linkedin.com/company/hyperplanar/)
+- (WIP) Developer Intern at [TheOmnia](https://www.theomnia.io/)
 
 ## JS Web Projects (oldest to latest)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
@@ -89,6 +90,9 @@
 - [Python Algorithms](https://github.com/ShawnZhuPro/Grokking_Algorithms) 🐍🧠
 - [Trading API](https://github.com/ShawnZhuPro/TradierAPI)
 - [Python Frontend](https://github.com/ShawnZhuPro/Streamlit_Tutorial/tree/main)
+
+## Typescript Projects (oldest to latest)
+- [Send GPT Requests](https://github.com/ShawnZhuPro/GPT_Request)
 
 ## Java Projects (oldest to latest)
 - WIP
