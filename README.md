@@ -111,7 +111,7 @@
 - [Send GPT Requests](https://github.com/ShawnZhuPro/GPT_Request)
 
 ## Java Projects (oldest to latest)
-- WIP
+- [Image Revealer Game](https://github.com/ShawnZhuPro/Image-Revealer-Game)
 
 ## Robotics Projects (oldest to latest)
 - FRC Limelight Computer Vision Program 🤖
