@@ -88,9 +88,9 @@
 - [Answer Questions from PDF Upload with Gemini & Langchain](https://github.com/ShawnZhuPro/PDF_Answerer_AI)
 
 ## Internships (oldest to latest)
-- Application Developer Intern at [Inchtone](https://www.inchtoneglobal.com/) 🌎🖥️
+- Application Developer Intern at [Inchtone](https://www.linkedin.com/company/inchtone) 🌎🖥️
 - Full Stack Developer Intern at [Hyper Planar](https://www.linkedin.com/company/hyperplanar/)
-- Developer Intern at [TheOmnia](https://www.theomnia.io/)
+- Developer Intern at [TheOmnia](https://www.linkedin.com/company/omnia-ar)
 
 ## JS Web Projects (oldest to latest)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
