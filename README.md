@@ -83,10 +83,14 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShawnZhuPro&theme=onedark&mode=weekly" alt="GitHub Streak" /></a>
 # Welcome to my Coding Journey! 🖥️
 
+## AI Projects
+- [Joke Generator with Gemini & Langchain](https://github.com/ShawnZhuPro/JokeGeneratorAI)
+- [Answer Questions from PDF Upload with Gemini & Langchain](https://github.com/ShawnZhuPro/PDF_Answerer_AI)
+
 ## Internships (oldest to latest)
 - Application Developer Intern at [Inchtone](https://www.inchtoneglobal.com/) 🌎🖥️
-- (WIP) Full Stack Developer Intern at [Hyper Planar](https://www.linkedin.com/company/hyperplanar/)
-- (WIP) Developer Intern at [TheOmnia](https://www.theomnia.io/)
+- Full Stack Developer Intern at [Hyper Planar](https://www.linkedin.com/company/hyperplanar/)
+- Developer Intern at [TheOmnia](https://www.theomnia.io/)
 
 ## JS Web Projects (oldest to latest)
 - [Shopping List Website](https://github.com/ShawnZhuPro/Shopping-List) 🛒
