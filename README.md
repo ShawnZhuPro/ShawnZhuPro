@@ -86,6 +86,7 @@
 ## AI Projects
 - [Joke Generator with Gemini & Langchain](https://github.com/ShawnZhuPro/JokeGeneratorAI)
 - [Answer Questions from PDF Upload with Gemini & Langchain](https://github.com/ShawnZhuPro/PDF_Answerer_AI)
+- [GPT-Powered LLM Chain Trading Journal Analyzer](https://github.com/ShawnZhuPro/llm-journal-analyzer)
 
 ## Internships (oldest to latest)
 - Application Developer Intern at [Inchtone](https://www.linkedin.com/company/inchtone) 🌎🖥️
